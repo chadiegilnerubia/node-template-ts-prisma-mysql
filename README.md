@@ -19,7 +19,7 @@ nvm use v18.18.0
 ### 4. Navigate to the project directory
 
 ```
-cd kh360-nodejs
+cd note_template
 ```
 
 ### 5. Install the project dependencies using npm (Node Package Manager)
