@@ -46,17 +46,10 @@ PORT=5000
 
 DATABASE_URL=mysql://USER:PASSWORD@HOST:PORT/DATABASE
 
-GOOGLE_OAUTH_CLIENT_ID=google client id
-GOOGLE_OAUTH_CLIENT_SECRET=google client secret
 
 ACCESS_TOKEN_SECRET=access token secret here
 ACCESS_TOKEN_EXPIRATION=5s
 
-REFRESH_TOKEN_SECRET=refresh token secret here
-REFRESH_TOKEN_EXPIRATION=15s
-
-SENDGRID_API_KEY=sendgrid api key
-SENDGRID_FROM_ADDRESS=from@yourdomain.com
 ```
 
 ### 2. Start the development server
