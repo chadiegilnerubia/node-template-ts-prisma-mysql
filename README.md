@@ -16,19 +16,13 @@ nvm install v18.18.0
 nvm use v18.18.0
 ```
 
-### 4. Clone this repository to your local machine using Git
-
-```
-git clone https://github.com/nerubia/kh360-nodejs.git
-```
-
-### 5. Navigate to the project directory
+### 4. Navigate to the project directory
 
 ```
 cd kh360-nodejs
 ```
 
-### 6. Install the project dependencies using npm (Node Package Manager)
+### 5. Install the project dependencies using npm (Node Package Manager)
 
 ```
 npm install
