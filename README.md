@@ -1,4 +1,4 @@
-# KH360 Server
+# Node template
 
 ## Installation
 
